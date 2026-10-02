@@ -1,0 +1,13 @@
+test_set,metric,baseline,improved,comparison
+all,mAP@0.5,NA,NA,Not evaluated
+all,mAP@0.5:0.95,NA,NA,Not evaluated
+all,precision,NA,NA,Not evaluated
+all,recall,NA,NA,Not evaluated
+day,mAP@0.5,NA,NA,Not evaluated
+day,mAP@0.5:0.95,NA,NA,Not evaluated
+day,precision,NA,NA,Not evaluated
+day,recall,NA,NA,Not evaluated
+night,mAP@0.5,NA,NA,Not evaluated
+night,mAP@0.5:0.95,NA,NA,Not evaluated
+night,precision,NA,NA,Not evaluated
+night,recall,NA,NA,Not evaluated

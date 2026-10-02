@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data and generated model artifacts
+/data/raw/*
+!/data/raw/.gitkeep
+/datset/data/*.parquet
+/datset/.cache/
+/data/processed/images/*
+!/data/processed/images/train/
+!/data/processed/images/val/
+!/data/processed/images/test/
+/data/processed/labels/*
+!/data/processed/labels/train/
+!/data/processed/labels/val/
+!/data/processed/labels/test/
+runs/
+*.pt
+*.onnx
+
+# Notebook checkpoints
+.ipynb_checkpoints/

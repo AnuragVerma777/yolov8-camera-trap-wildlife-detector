@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+  <title id="title">Baseline vs improved model grouped bar chart</title>
+  <desc id="desc">Placeholder chart. Evaluation results for both models are unavailable.</desc>
+  <rect width="1000" height="520" fill="#fff"/>
+  <text x="500" y="46" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#202a35">Baseline vs. improved model</text>
+  <text x="500" y="78" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#8a3c32">No evaluation metrics found; bars will appear after both evaluations are run.</text>
+  <line x1="130" y1="400" x2="930" y2="400" stroke="#8b939b" stroke-width="2"/>
+  <line x1="130" y1="130" x2="130" y2="400" stroke="#8b939b" stroke-width="2"/>
+  <text x="58" y="270" transform="rotate(-90 58 270)" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#46515c">Score</text>
+  <text x="128" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#46515c">mAP@0.5</text>
+  <text x="328" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#46515c">mAP@0.5:0.95</text>
+  <text x="528" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#46515c">Precision</text>
+  <text x="728" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#46515c">Recall</text>
+  <text x="875" y="160" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#46515c">Subsets: all · day · night</text>
+  <rect x="780" y="185" width="18" height="14" fill="#4c78a8"/><text x="806" y="197" font-family="Arial,sans-serif" font-size="13" fill="#46515c">Baseline</text>
+  <rect x="780" y="210" width="18" height="14" fill="#f2a541"/><text x="806" y="222" font-family="Arial,sans-serif" font-size="13" fill="#46515c">Improved</text>
+  <text x="530" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#69747e">Awaiting baseline and improved evaluation CSVs</text>
+</svg>
