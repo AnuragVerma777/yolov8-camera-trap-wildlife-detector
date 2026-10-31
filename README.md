@@ -98,5 +98,5 @@ src/validate_yolo.py       Label/image/split validation
 src/train_baseline.py      YOLOv8n baseline training
 src/tag_test_day_night.py  Test-set lighting heuristic and subsets
 src/evaluate_baseline.py   Full/day/night model evaluation
-src/review_test_errors.py  False-negative/false-positive review
+src/review_test_errors.py  False-negative/false-positive reviews
 
